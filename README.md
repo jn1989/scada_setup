@@ -1,2 +1,3 @@
-# scada_setup
-scada程序的新版本发布
+# scada程序的新版本发布
+
+用于scada程序的一键安装和在线更新
